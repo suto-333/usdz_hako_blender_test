@@ -1,0 +1,1 @@
+# usdz_hako_blender_test
